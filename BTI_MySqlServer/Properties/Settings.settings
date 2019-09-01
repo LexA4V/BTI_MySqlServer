@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Template.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CompanyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">БТИ</Value>
+    </Setting>
+    <Setting Name="Duty" Type="System.String" Scope="User">
+      <Value Profile="(Default)">190</Value>
+    </Setting>
+    <Setting Name="Chief" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Фёдоров А.В.</Value>
+    </Setting>
+    <Setting Name="Theme" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Version" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1.1.0</Value>
+    </Setting>
+    <Setting Name="ProgrammName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Заявления</Value>
+    </Setting>
+    <Setting Name="ConOrders" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=localhost;Database=bti;Uid=root;Pwd=root;</Value>
+    </Setting>
+    <Setting Name="ConLists" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=localhost;Database=bti_lists;Uid=root;Pwd=root;</Value>
+    </Setting>
+    <Setting Name="Login" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
